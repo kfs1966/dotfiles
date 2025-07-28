@@ -1,0 +1,5 @@
+dotfiles/
+└── .config/
+    └── Code/
+        └── User/
+            └── keybindings.json
